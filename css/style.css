@@ -1,0 +1,615 @@
+.logoRow {
+  height: 8vh;
+}
+.headingLogo {
+  background-color: green;
+}
+.createAccount {
+  background-color: yellow;
+}
+.shoppingBag {
+  background-color: blue;
+}
+.mainContact {
+  background-color: deeppink;
+}
+.shopNameRow {
+  height: 6vh;
+}
+.countryLogo {
+  background-color: yellow;
+}
+.search {
+  background-color: grey;
+}
+.shopName {
+  font-family: "Roboto", sans-serif;
+  font-size: large;
+}
+.shopSubtitle {
+  font-family: "Roboto", sans-serif;
+  font-size: medium;
+}
+
+.navigationRow {
+  height: 5vh;
+  background-color: dimgray;
+}
+.newInRow {
+  height: 85vh;
+  margin-bottom: 5px;
+}
+.newInImg {
+  background-image: url(../imgs/index/manWomenStyle.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.newInText {
+  background-color: #05098a;
+  text-align: center;
+  justify-content: center;
+  align-content: center;
+}
+.newSeasonText {
+  color: white;
+  text-align: center;
+  justify-content: center;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.shoppingButtonNewIn {
+  color: white;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+  width: 400px;
+  background-color: lightgrey;
+  border-radius: 5px;
+  margin-left: 2%;
+  height: 60px;
+}
+.shoppingButtonNewIn:hover {
+  transform: scale(1.2);
+  color: #05098a;
+}
+
+.womenImgRow {
+  height: 85vh;
+  margin-bottom: 5px;
+}
+.womenImg1 {
+  background-image: url(../imgs/index/womenStyle.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.womenImg2 {
+  background-image: url(../imgs/index/womenStyle2.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.womenShopButton {
+  height: 10vh;
+  margin-bottom: 5px;
+  background-color: #720303;
+}
+.confortZone {
+  color: white;
+  text-align: center;
+  justify-content: center;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+}
+.shoppingButtonWomen {
+  color: #720303;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+  background-color: lightgrey;
+  border-radius: 5px;
+}
+.shoppingButtonWomen:hover {
+  transform: scale(1.2);
+  color: #720303;
+}
+.manImgRow {
+  height: 85vh;
+  margin-bottom: 5px;
+}
+.manImg1 {
+  background-image: url(../imgs/index/manStyle.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.manImg2 {
+  background-image: url(../imgs/index/manStyle2.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.manShopButton {
+  height: 10vh;
+  margin-bottom: 5px;
+  background-color: #620774;
+}
+
+.exculisiveStyle {
+  color: white;
+  text-align: center;
+  justify-content: center;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+}
+
+.shoppingButtonMan {
+  color: #620774;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+  width: 200px;
+  background-color: lightgrey;
+  border-radius: 5px;
+}
+.shoppingButtonMan:hover {
+  transform: scale(1.2);
+  color: #620774;
+}
+
+.contactRow {
+  height: 6vh;
+  background-color: darkgray;
+  color: white;
+  justify-content: center;
+  align-content: center;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  margin-bottom: 5px;
+  background-color: #090868;
+}
+.contactInformationRow {
+  height: 30vh;
+}
+.footerLogoCol {
+  align-content: center;
+}
+.contactNumbersCol {
+  font-family: "Roboto", sans-serif;
+}
+
+.businessHoursCol {
+  font-family: "Roboto", sans-serif;
+}
+.footerLogo {
+  width: 170px;
+  height: auto;
+  padding-left: 35px;
+}
+.contactText {
+  font-weight: bold;
+  font-size: 16px;
+}
+.businessHoursText {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.logo {
+  width: 60px;
+  height: auto;
+  object-fit: contain;
+}
+.icon {
+  width: 31px;
+  height: auto;
+  object-fit: contain;
+}
+.sicon {
+  width: 15px;
+  height: 15px;
+  object-fit: contain;
+}
+.serach {
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+}
+.mbm5 {
+  margin-bottom: -5px;
+  font-family: "Roboto", sans-serif;
+  font-size: 23px;
+  color: #021055;
+  font-weight: bold;
+}
+.shopSubtitle {
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  color: #021055;
+}
+
+.nitem {
+  font-family: "Roboto", sans-serif !important;
+}
+.nav-item {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+}
+
+.product {
+  height: 400px !important;
+}
+
+.iprice {
+  display: none;
+  font-family: "Roboto", sans-serif;
+  margin-top: 20px;
+}
+
+.nicon {
+  width: 200px;
+  height: auto;
+  object-fit: contain;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.nicon:hover {
+  transform: scale(1.1);
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+/*Lottery game style*/
+.spinwheel {
+  position: fixed;
+  background-color: white;
+  padding: 2px;
+  bottom: 30px;
+  left: 30px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+}
+
+.rotate {
+  animation: spinning 8s linear infinite;
+}
+
+@keyframes spinning {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/*Women page style*/
+.heels {
+  padding-left: 20px;
+}
+
+.heelsWhite {
+  width: 330px;
+  height: 400px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.heelsWhite:hover {
+  transform: scale(1.1);
+}
+
+#heelsWhiteDef {
+  font-family: "Signika Negative", sans-serif;
+  display: none;
+  color: #03025f;
+  background-color: rgba(0, 0, 0, 0.1);
+  align-items: center;
+  justify-content: center;
+}
+
+
+.heelsBurgundy {
+  width: 330px;
+  height: 400px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+.heelsBurgundy:hover {
+  transform: scale(1.1);
+}
+
+#heelsBurgundyDef {
+  font-family: "Signika Negative", sans-serif;
+  display: none;
+  color: #03025f;
+  background-color: rgba(0, 0, 0, 0.1);
+  align-items: center;
+  justify-content: center;
+}
+
+.heelsBlack {
+  width: 330px;
+  height: 400px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.heelsBlack:hover {
+  transform: scale(1.1);
+}
+
+#heelsBlackDef {
+  font-family: "Signika Negative", sans-serif;
+  display: none;
+  color: #03025f;
+  background-color: rgba(0, 0, 0, 0.1);
+  align-items: center;
+  justify-content: center;
+}
+
+.heelsPink {
+  width: 330px;
+  height: 400px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.heelsPink:hover {
+  transform: scale(1.1);
+}
+
+#heelsPinkDef {
+  font-family: "Signika Negative", sans-serif;
+  display: none;
+  color: #03025f;
+  background-color: rgba(0, 0, 0, 0.1);
+  align-items: center;
+  justify-content: center;
+}
+
+/*WomenLoafers style*/
+.loafers {
+  padding-left: 20px;
+}
+
+.loafersBrown {
+  width: 330px;
+  height: 400px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.loafersBrown:hover {
+  transform: scale(1.1);
+}
+
+#loafersBrownDef {
+  font-family: "Signika Negative", sans-serif;
+  display: none;
+  color: #03025f;
+  background-color: rgba(0, 0, 0, 0.1);
+  align-items: center;
+  justify-content: center;
+}
+
+.loafersBeige {
+  width: 330px;
+  height: 400px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.loafersBeige:hover {
+  transform: scale(1.1);
+}
+
+#loafersBeigeDef {
+  font-family: "Signika Negative", sans-serif;
+  display: none;
+  color: #03025f;
+  background-color: rgba(0, 0, 0, 0.1);
+  align-items: center;
+  justify-content: center;
+}
+
+.loafersBurgundy {
+   width: 330px;
+  height: 400px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.loafersBurgundy:hover {
+  transform: scale(1.1);
+}
+
+#loafersBurgundyDef {
+  font-family: "Signika Negative", sans-serif;
+  display: none;
+  color: #03025f;
+  background-color: rgba(0, 0, 0, 0.1);
+  align-items: center;
+  justify-content: center;
+}
+
+.loafersBlack {
+  width: 330px;
+  height: 400px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.loafersBlack:hover {
+  transform: scale(1.1);
+}
+
+#loafersBlackDef {
+  font-family: "Signika Negative", sans-serif;
+  display: none;
+  color: #03025f;
+  background-color: rgba(0, 0, 0, 0.1);
+  align-items: center;
+  justify-content: center;
+}
+
+.newSeasonTextRow {
+  height: 5vh;
+  background-color: #7a0505;
+  margin-bottom: 5px;
+}
+
+.newSeasonText {
+  font-family: "Signika Negative", sans-serif;
+  font-size: 18px;
+  color: white;
+} /*Finishing women page style*/
+
+/* About Us page style*/
+.aboutCompanyTextCol {
+  background-color: rgba(0, 0, 0, 0.1);
+  color: navy;
+  font-family: "Signika Negative", sans-serif;
+  font-size: 18px;
+}
+.missiontext {
+  margin-top: 60px;
+  margin-left: 20px;
+}
+
+.aboutCompany {
+  margin-left: 20px;
+}
+.aboutCompanyRow {
+  height: 85vh;
+  margin-bottom: 5px;
+}
+
+.storeImgCol {
+  background-image: url(../imgs/aboutus/storeImage.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.CommentMap {
+  margin-bottom: 5px;
+  height: 85vh;
+}
+
+.costumerCommentFormCol {
+}
+
+.submitComment {
+  width: 20%;
+  background-color: #076e18;
+  color: white;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+  border: none;
+  border-radius: 3px;
+  height: 5vh;
+  font-weight: bold;
+}
+
+.comment {
+  height: 25vh;
+  width: 80%;
+  border-radius: 3px;
+  border: none;
+  background-color: rgba(0, 0, 0, 0.1);
+  
+}
+#comment:focus {
+  animation: shake 0.2s;
+}
+
+
+@keyframes shake {
+  0% { transform: translateX(0); }
+  25% { transform: translateX(-2px); }
+  50% { transform: translateX(2px); }
+}
+
+
+#email {
+  width: 80%;
+  border-radius: 3px;
+  border: none;
+  height: 5vh;
+  background-color: rgba(0, 0, 0, 0.1);
+}
+#email:focus {
+  animation: shake 0.2s;
+}
+
+
+@keyframes shake {
+  0% { transform: translateX(0); }
+  25% { transform: translateX(-2px); }
+  50% { transform: translateX(2px); }
+}
+
+#name {
+  width: 80%;
+  border-radius: 3px;
+  border: none;
+  height: 5vh;
+  background-color: rgba(0, 0, 0, 0.1);
+}
+#name:focus {
+  animation: shake 0.2s;
+}
+
+
+@keyframes shake {
+  0% { transform: translateX(0); }
+  25% { transform: translateX(-2px); }
+  50% { transform: translateX(2px); }
+}
+#commentForm {
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+}
+#emailError {
+  font-weight: normal;
+  font-size: 15px;
+  color: red;
+  display: none;
+}
+.agreement {
+  font-weight: normal;
+}
+.googleMap {
+  width: 100%;
+  height: 100%;
+}
+
+
+.roboto {
+  font-family: "Roboto", sans-serif;
+}
+
+.signika {
+  font-family: "Signika", sans-serif;
+}
+.error_tips {
+  font-family: "Roboto", sans-serif;
+  font-size: small;
+  color: red;
+  display: none;
+}
+
+.signup {
+  background-image: url("../imgs/index/bg.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: auto;
+  margin: 0;
+}
